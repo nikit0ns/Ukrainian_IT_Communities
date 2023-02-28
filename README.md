@@ -119,3 +119,8 @@
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
+
+## Created by _Nikita Kasyanenko_
+
+- **Email: nikitakasyanenko2005@gmail.com**
+- **Telegram: [@nikit0ns](https://t.me/nikit0ns)**
