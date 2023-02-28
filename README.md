@@ -82,18 +82,26 @@
 - **[React Kyiv](https://t.me/reactkyiv) - Telegram Chat**
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
+- **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
+- **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
 ## Game Development
 
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
-- **[Чат українських геймдизайнері](https://t.me/gamedesignUA_chat) - Telegram Chat**
+- **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
 - **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
 - **[Unreal Engine (UA)](https://t.me/ua_ue) - Telegram Chat**
 - **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
 - **[Unity.Ukraine](https://t.me/unity_ukraine) - Telegram Chat**
 - **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
 
-### Industry News
+## Industry News
+
+- **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
+- **[Корисності для Ґаджетів](https://t.me/korysnosti) - Telegram Channel**
+- **[Крекер](https://t.me/cracker_ua) - Telegram Channel**
+- **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
+- **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
 
 ### Memes
 
