@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 # Ukrainian IT Communities
 
 **The List of Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.**
