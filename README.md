@@ -35,7 +35,8 @@
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
 - **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
-- **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat** 
+- **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat**
+- **[C/C++/Rust](https://t.me/cplusplusua) - Telegram Chat**
 - **[IT KPI Go](https://t.me/itkpi_go) - Telegram Chat**
 - **[IT KPI Java](https://t.me/itkpi_java) - Telegram Chat** 
 - **[IT KPI PHP](https://t.me/itkpi_php) - Telegram Chat**
