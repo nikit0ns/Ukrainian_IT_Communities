@@ -1,5 +1,8 @@
 # Ukrainian IT Communities
 
+**The List of Ukrainian IT communities, news portals, Telegram groups, and other places where people can communicate with each other.**
+
+**Keep in mind that each community has its own rules, please, respect them when you join.**
 
 ## Contents
 
