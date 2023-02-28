@@ -98,6 +98,7 @@
 ## Industry News
 
 - **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
+- **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[Корисності для Ґаджетів](https://t.me/korysnosti) - Telegram Channel**
 - **[Крекер](https://t.me/cracker_ua) - Telegram Channel**
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
@@ -105,8 +106,13 @@
 
 ## Memes
 
+- **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
 - **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
 - **[Гумр-р-р Гумор | Жарти | Меми](https://t.me/fun_ua) - Telegram Channel**
 - **[Мюслі UA](https://t.me/MiusliUA) - Telegram Channel**
 
-### Vacancies, work, employment
+## Vacancies, work, employment
+
+- **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
+- **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
+- **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
