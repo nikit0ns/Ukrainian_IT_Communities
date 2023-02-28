@@ -83,7 +83,15 @@
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 
-### Game Development
+## Game Development
+
+- **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
+- **[Чат українських геймдизайнері](https://t.me/gamedesignUA_chat) - Telegram Chat**
+- **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
+- **[Unreal Engine (UA)](https://t.me/ua_ue) - Telegram Chat**
+- **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
+- **[Unity.Ukraine](https://t.me/unity_ukraine) - Telegram Chat**
+- **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
 
 ### Industry News
 
