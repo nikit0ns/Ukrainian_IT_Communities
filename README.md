@@ -55,15 +55,22 @@
 
 ## Design
 
-- **[Game Designer Notes](https://t.me/itkpi_design](https://t.me/GameDesigner_Notes) - Telegram Chat**
+- **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Chat**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
 - **[Substance painter Ukraine](https://t.me/SP_Ukraine) - Telegram Channel**
-- **[ІТ КПІ - Design](https://t.me/itkpi_design) - Telegram**
+- **[ІТ КПІ - Design](https://t.me/itkpi_design) - Telegram Chat**
 - **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
 
 ### DevOps
+
+- **[Docker/Kubernetes Українською](https://t.me/k8s_ua) - Telegram Chat**
+- **[CatOps Chat](https://t.me/catops_chat) - Telegram Chat**
+- **[HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - MeetUp**
+- **[IT KPI - DevOps](https://t.me/itkpi_devops) - Telegram Chat**
+- **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups**
+- **[UkrOps](https://ukrops.club/) - Slack**
 
 ### Frontend
 
