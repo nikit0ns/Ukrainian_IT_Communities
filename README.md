@@ -30,6 +30,7 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
+- **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
 - **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
 - **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat** 
@@ -60,7 +61,7 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
 
-- **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Chat**
+- **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Channel**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
