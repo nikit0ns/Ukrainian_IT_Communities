@@ -63,7 +63,7 @@
 - **[ІТ КПІ - Design](https://t.me/itkpi_design) - Telegram Chat**
 - **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
 
-### DevOps
+## DevOps
 
 - **[Docker/Kubernetes Українською](https://t.me/k8s_ua) - Telegram Chat**
 - **[CatOps Chat](https://t.me/catops_chat) - Telegram Chat**
@@ -72,7 +72,16 @@
 - **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups**
 - **[UkrOps](https://ukrops.club/) - Slack**
 
-### Frontend
+## Frontend
+
+- **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
+- **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
+- **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
+- **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
+- **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Chat**
+- **[React Kyiv](https://t.me/reactkyiv) - Telegram Chat**
+- **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
+- **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 
 ### Game Development
 
