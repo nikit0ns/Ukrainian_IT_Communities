@@ -48,11 +48,20 @@
 
 ## Databases
 
+- **[IT KPI - Databases](https://t.me/itkpi_db) - Telegram Chat**
 - **[SQL Ukraine](https://t.me/sql_ua) - Telegram Chat** 
 - **[PostgreSQL Ukraine](https://t.me/PostgresUkraine) - Telegram Chat**
 - **[UDCK (Ukrainian Data Community Kyiv)](https://www.facebook.com/groups/kssug/) - Facebook**
 
-### Design
+## Design
+
+- **[Game Designer Notes](https://t.me/itkpi_design](https://t.me/GameDesigner_Notes) - Telegram Chat**
+- **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
+- **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
+- **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
+- **[Substance painter Ukraine](https://t.me/SP_Ukraine) - Telegram Channel**
+- **[ІТ КПІ - Design](https://t.me/itkpi_design) - Telegram**
+- **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
 
 ### DevOps
 
