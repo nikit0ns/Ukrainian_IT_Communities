@@ -120,7 +120,7 @@
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
 
-## Created by _Nikita Kasyanenko_
+## Created by Nikita Kasyanenko
 
 - **Email: nikitakasyanenko2005@gmail.com**
 - **Telegram: [@nikit0ns](https://t.me/nikit0ns)**
