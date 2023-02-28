@@ -84,7 +84,6 @@
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Chat**
-- **[React Kyiv](https://t.me/reactkyiv) - Telegram Chat**
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
