@@ -103,6 +103,10 @@
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
 
-### Memes
+## Memes
+
+- **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
+- **[Гумр-р-р Гумор | Жарти | Меми](https://t.me/fun_ua) - Telegram Channel**
+- **[Мюслі UA](https://t.me/MiusliUA) - Telegram Channel**
 
 ### Vacancies, work, employment
