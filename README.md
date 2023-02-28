@@ -14,7 +14,14 @@
 - **[Memes](#memes)**
 - **[Vacancies, work, employment](#vacancies-work-employment)**
 
-### IT in General
+## IT in General
+
+- **[DOU](https://dou.ua/) - Website** 
+- **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
+- **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
+- **[IT KPI Chat](https://t.me/itkpi_flood) - Telegram Chat**
+- **[IT KPI Non Tech](https://t.me/itkpi_non_tech) - Telegram Chat** 
+- **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 
 ### Backend
 
