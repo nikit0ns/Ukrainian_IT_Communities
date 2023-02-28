@@ -25,7 +25,7 @@
 
 ## Backend
 
-- **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Group**
+- **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
 - **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
 - **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat** 
 - **[IT KPI Go](https://t.me/itkpi_go) - Telegram Chat**
@@ -46,7 +46,11 @@
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
 
-### Databases
+## Databases
+
+- **[SQL Ukraine](https://t.me/sql_ua) - Telegram Chat** 
+- **[PostgreSQL Ukraine](https://t.me/PostgresUkraine) - Telegram Chat**
+- **[UDCK (Ukrainian Data Community Kyiv)](https://www.facebook.com/groups/kssug/) - Facebook**
 
 ### Design
 
