@@ -8,16 +8,16 @@
 
 ## Contents
 
-- **[IT in General](#it-in-general)**
-- **[Backend](#backend)**
-- **[Databases](#databases)**
-- **[Design](#design)**
-- **[DevOps](#devops)**
-- **[Frontend](#frontend)**
-- **[Game Development](#game-development)**
-- **[Industry News](#industry-news)**
-- **[Memes](#memes)**
-- **[Vacancies, work, employment](#vacancies-work-employment)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#it-in-general)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#backend)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases](#databases)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#design)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#devops)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#frontend)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#game-development)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-apple-64/1f4f0.png" width="20" height="20" alt="newspaper"/> **[Industry News](#industry-news)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#memes)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#vacancies-work-employment)**
 
 ## IT in General
 
