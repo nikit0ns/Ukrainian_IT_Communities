@@ -23,7 +23,28 @@
 - **[IT KPI Non Tech](https://t.me/itkpi_non_tech) - Telegram Chat** 
 - **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 
-### Backend
+## Backend
+
+- **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Group**
+- **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
+- **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat** 
+- **[IT KPI Go](https://t.me/itkpi_go) - Telegram Chat**
+- **[IT KPI Java](https://t.me/itkpi_java) - Telegram Chat** 
+- **[IT KPI PHP](https://t.me/itkpi_php) - Telegram Chat**
+- **[IT KPI Rust](https://t.me/itkpi_rust) - Telegram Chat**
+- **[Вивчаємо Rust Разом 🇺🇦](https://t.me/rustlang_ua) - Telegram Chat**
+- **[IT KPI – Python](https://t.me/itkpi_python) - Telegram Chat**
+- **[Команда Python](https://t.me/chatpythonua) - Telegram Chat**
+- **[PHP Friends Club Ukraine Chat](https://t.me/phpfriendsclub_chat) - Telegram Chat**
+- **[PyCON](https://www.meetup.com/uapycon/) - Website**
+- **[UAGolang](https://www.meetup.com/uagolang/) - Website**
+- **[Laravel UA](https://t.me/laravel_ua) - Telegram Chat**
+- **[Lviv Python Community](https://t.me/lviv_python_community) - Telegram Chat** 
+- **[CoffeeJUG](https://www.coffeejug.org/) - Website**
+- **[Java Lviv](https://www.facebook.com/groups/jug.lviv/) - Facebook**
+- **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
+- **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
+- **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
 
 ### Databases
 
