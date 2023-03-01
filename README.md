@@ -90,7 +90,7 @@
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
-- **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Chat**
+- **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
@@ -100,6 +100,7 @@
 - **[Godot Ukraine](https://t.me/GodotUkraine) - Telegram Chat**
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
+- **[Intro to Gamedev - Chat](https://t.me/kpigamedev_chat) - Telegram Chat**
 - **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
 - **[Unreal Engine (UA)](https://t.me/ua_ue) - Telegram Chat**
 - **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
