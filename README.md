@@ -33,6 +33,7 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
+- **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
 - **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 - **[Lviv .NET Community](https://t.me/lvivdotnet) - Telegram Chat**
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
