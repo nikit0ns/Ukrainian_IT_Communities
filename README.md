@@ -128,6 +128,7 @@
 
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
+- **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> Created by Nikita Kasyanenko
