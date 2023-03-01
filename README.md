@@ -21,7 +21,8 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
 
-- **[Про IT в Україні 🇺🇦 Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
+- **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
+- **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[DOU](https://dou.ua/) - Website** 
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
