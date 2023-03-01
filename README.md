@@ -27,10 +27,10 @@
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
 - **[IT KPI Chat](https://t.me/itkpi_flood) - Telegram Chat**
 - **[IT KPI Non Tech](https://t.me/itkpi_non_tech) - Telegram Chat** 
-- **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
+- **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 - **[Lviv .NET Community](https://t.me/lvivdotnet) - Telegram Chat**
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
