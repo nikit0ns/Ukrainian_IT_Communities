@@ -96,6 +96,7 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> Game Development
 
+- **[Godot Ukraine](https://t.me/GodotUkraine) - Telegram Chat**
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
 - **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
