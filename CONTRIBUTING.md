@@ -2,6 +2,8 @@
 
 **You want to contribute to the Ukrainian IT Communities List? That's great news!**
 
+**Please, fork this repository and create a PR to the [Pull Request Template](https://github.com/nikit0ns/Ukrainian_IT_Communities/blob/master/.github/Pull_Request_Template.md) branch of this repository.**
+
 **Please, follow simple rules before submitting a PR:**
 
 
