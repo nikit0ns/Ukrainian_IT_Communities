@@ -64,7 +64,6 @@
 - **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
-- **[TeaJS 🇺🇦 - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat, [Telegram Channel](https://t.me/teajsannouncements)**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
 
@@ -94,7 +93,8 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
-- **[TeaJS 🇺🇦 - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat, [Telegram Channel](https://t.me/teajsannouncements)**
+- **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat**
+- **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsannouncements) - Telegram Channel**
 - **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
@@ -118,7 +118,8 @@
 
 ## <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> Blockchain
 
-- **[Near Protocol Ukrainians 🇺🇦 Guild](https://t.me/nearprotocolua) - Telegram Chat, [Telegram Channel](https://t.me/nearprotocoluachannel)**
+- **[Near Protocol Ukrainians Guild](https://t.me/nearprotocolua) - Telegram Chat**
+- **[Near Protocol Ukrainians Guild](https://t.me/nearprotocoluachannel) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
 
