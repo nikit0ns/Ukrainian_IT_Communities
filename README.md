@@ -94,13 +94,13 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat**
-- **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsannouncements) - Telegram Channel**
 - **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
+- **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsannouncements) - Telegram Channel**
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
