@@ -43,6 +43,7 @@
 - **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
 - **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 - **[Lviv .NET Community](https://t.me/lvivdotnet) - Telegram Chat**
+- **[.NET Tech Learn | UA](https://t.me/net_tech_learn) - Telegram Chat**
 - **[Scala Hero](https://t.me/scala_hero) - Telegram Chat**
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
