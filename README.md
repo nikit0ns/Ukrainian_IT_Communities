@@ -64,6 +64,7 @@
 - **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
+- **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
 
