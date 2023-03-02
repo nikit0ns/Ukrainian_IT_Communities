@@ -6,6 +6,8 @@
 
 **Keep in mind that each community has its own rules, please, respect them when you join.**
 
+**Thank [grem11n](https://github.com/grem11n), he motivated me with [his project](https://github.com/grem11n/awesome-it-communities-ua) to make The List of Ukrainian IT communities.**
+
 **Please, see [this guide](https://github.com/nikit0ns/Ukrainian_IT_Communities/blob/master/CONTRIBUTING.md), if you want to contribute to this list.**
 
 ## Contents
