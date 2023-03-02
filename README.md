@@ -152,6 +152,7 @@
 - **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
 - **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
 - **[Вакансії без смаколиків](https://t.me/kpi_work) - Telegram Channel**
+- **[Jobs IT UA](https://t.me/jobsitua) - Telegram Chat**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> Created by Nikita Kasyanenko
