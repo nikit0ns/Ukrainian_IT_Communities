@@ -25,6 +25,7 @@
 
 - **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
 - **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
+- **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[DOU](https://dou.ua/) - Website** 
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
