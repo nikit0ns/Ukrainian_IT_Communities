@@ -115,6 +115,7 @@
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
 - **[Intro to Gamedev - Chat](https://t.me/kpigamedev_chat) - Telegram Chat**
+- **[Unity chat | UA](https://t.me/unity_ua_chat) - Telegram Chat**
 - **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
 - **[Unreal Engine (UA)](https://t.me/ua_ue) - Telegram Chat**
 - **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
