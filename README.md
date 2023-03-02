@@ -76,6 +76,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
 
 - **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Channel**
+- **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Chat**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
