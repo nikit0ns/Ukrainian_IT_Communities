@@ -19,6 +19,7 @@
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#-devops)**
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
+- <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> **[Blockchain](#-blockchain)** 
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#-industry-news)**
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#-memes)**
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#-vacancies-work-employment)**
@@ -63,6 +64,7 @@
 - **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
+- **[TeaJS 🇺🇦 - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat, [Telegram Channel](https://t.me/teajsannouncements)**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
 
@@ -92,6 +94,7 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
+- **[TeaJS 🇺🇦 - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat, [Telegram Channel](https://t.me/teajsannouncements)**
 - **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
@@ -112,6 +115,10 @@
 - **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
 - **[Unity.Ukraine](https://t.me/unity_ukraine) - Telegram Chat**
 - **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
+
+## <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> Blockchain
+
+- **[Near Protocol Ukrainians 🇺🇦 Guild](https://t.me/nearprotocolua) - Telegram Chat, [Telegram Channel](https://t.me/nearprotocoluachannel)**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
 
