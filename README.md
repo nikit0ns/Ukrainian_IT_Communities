@@ -88,6 +88,7 @@
 
 - **[Docker/Kubernetes Українською](https://t.me/k8s_ua) - Telegram Chat**
 - **[CatOps Chat](https://t.me/catops_chat) - Telegram Chat**
+- **[ДевОпс Інженер](https://t.me/devopsengineer) - Telegram Channel**
 - **[HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - MeetUp**
 - **[IT KPI - DevOps](https://t.me/itkpi_devops) - Telegram Chat**
 - **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups**
