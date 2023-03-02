@@ -55,7 +55,7 @@
 - **[IT KPI PHP](https://t.me/itkpi_php) - Telegram Chat**
 - **[IT KPI Rust](https://t.me/itkpi_rust) - Telegram Chat**
 - **[F# Chat](https://t.me/fsharp_chat) - Telegram Chat**
-- **[Вивчаємо Rust Разом 🇺🇦](https://t.me/rustlang_ua) - Telegram Chat**
+- **[Вивчаємо Rust Разом](https://t.me/rustlang_ua) - Telegram Chat**
 - **[IT KPI – Python](https://t.me/itkpi_python) - Telegram Chat**
 - **[Команда Python](https://t.me/chatpythonua) - Telegram Chat**
 - **[PHP Friends Club Ukraine Chat](https://t.me/phpfriendsclub_chat) - Telegram Chat**
