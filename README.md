@@ -115,7 +115,7 @@
 
 - **[Godot Ukraine](https://t.me/GodotUkraine) - Telegram Chat**
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
-- **[Ігровари](https://discord.gg/TDBnfjm7) - Discord**
+- **[Ігровари](https://discord.gg/tMEJx47v8U) - Discord**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
 - **[Intro to Gamedev - Chat](https://t.me/kpigamedev_chat) - Telegram Chat**
 - **[Unity chat | UA](https://t.me/unity_ua_chat) - Telegram Chat**
