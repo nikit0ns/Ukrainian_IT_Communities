@@ -152,6 +152,7 @@
 
 - **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+2eLa4anP5Z5hNzIy) - Telegram Channel**
+- **[INNOVATOR]*(https://t.me/innovator_ua) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
 
