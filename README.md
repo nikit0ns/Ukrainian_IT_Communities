@@ -21,6 +21,7 @@
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
 - <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> **[Blockchain](#-blockchain)** 
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#-industry-news)**
+- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#-artificial-intelligence)**
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#-memes)**
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#-vacancies-work-employment)**
 
@@ -146,6 +147,9 @@
 - **[Крекер](https://t.me/cracker_ua) - Telegram Channel**
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
+
+## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence
+
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
 
