@@ -29,6 +29,7 @@
 - **[dev.ua | IT України](https://t.me/devukraine) - Telegram Channel**
 - **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
 - **[Telegram Developers](https://t.me/botoid) - Telegram Chat**
+- **[Rude Chat](https://t.me/rude_chat) - Telegram Chat**
 - **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[DOU](https://dou.ua/) - Website** 
@@ -146,7 +147,6 @@
 - **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
 - **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
 - **[Гумр-р-р Гумор | Жарти | Меми](https://t.me/fun_ua) - Telegram Channel**
-- **[Мюслі UA](https://t.me/MiusliUA) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
 
