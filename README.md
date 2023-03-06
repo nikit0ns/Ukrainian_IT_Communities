@@ -39,6 +39,7 @@
 - **[IT KPI Chat](https://t.me/itkpi_flood) - Telegram Chat**
 - **[IT KPI Non Tech](https://t.me/itkpi_non_tech) - Telegram Chat**
 - **[Програмісти і печеньки](https://t.me/include_anime) - Telegram Chat**
+- **[IT Двіж](https://t.me/it_dvizh_ua) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
