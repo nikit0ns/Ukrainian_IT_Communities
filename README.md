@@ -124,6 +124,7 @@
 - **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
 - **[Unity.Ukraine](https://t.me/unity_ukraine) - Telegram Chat**
 - **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
+- **[GameDev DOU](https://t.me/gamedev_dou) - Telegram Channel**
 
 ## <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> Blockchain
 
