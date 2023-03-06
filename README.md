@@ -32,6 +32,7 @@
 - **[Rude Chat](https://t.me/rude_chat) - Telegram Chat**
 - **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
+- **[Підслухано в ІТ](https://t.me/fivekusd) - Telegram Channel**
 - **[DOU](https://dou.ua/) - Website** 
 - **[Linuxmint](https://t.me/linuxmint_com) - Telegram Chat**
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
