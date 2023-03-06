@@ -150,6 +150,7 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence
 
+- **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
 
