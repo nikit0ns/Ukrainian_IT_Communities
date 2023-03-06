@@ -46,28 +46,28 @@
 
 - **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
 - **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
+- **[CoffeeJUG](https://www.coffeejug.org/) - Website**
 - **[Lviv .NET Community](https://t.me/lvivdotnet) - Telegram Chat**
 - **[.NET Tech Learn | UA](https://t.me/net_tech_learn) - Telegram Chat**
 - **[Scala Hero](https://t.me/scala_hero) - Telegram Chat**
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
+- **[PHP Friends Club Ukraine Chat](https://phpfriends.club/) - Website**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
 - **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
 - **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat**
 - **[C/C++/Rust](https://t.me/cplusplusua) - Telegram Chat**
 - **[IT KPI Go](https://t.me/itkpi_go) - Telegram Chat**
 - **[IT KPI Java](https://t.me/itkpi_java) - Telegram Chat** 
+- **[PyCON](https://www.meetup.com/uapycon/) - Website**
 - **[IT KPI PHP](https://t.me/itkpi_php) - Telegram Chat**
 - **[IT KPI Rust](https://t.me/itkpi_rust) - Telegram Chat**
 - **[F# Chat](https://t.me/fsharp_chat) - Telegram Chat**
 - **[Вивчаємо Rust Разом](https://t.me/rustlang_ua) - Telegram Chat**
 - **[IT KPI – Python](https://t.me/itkpi_python) - Telegram Chat**
 - **[Команда Python](https://t.me/chatpythonua) - Telegram Chat**
-- **[PHP Friends Club Ukraine Chat](https://phpfriends.club) - Telegram Chat**
-- **[PyCON](https://www.meetup.com/uapycon/) - Website**
 - **[UAGolang](https://www.meetup.com/uagolang/) - Website**
 - **[Laravel UA](https://t.me/laravel_ua) - Telegram Chat**
 - **[Lviv Python Community](https://t.me/lviv_python_community) - Telegram Chat** 
-- **[CoffeeJUG](https://www.coffeejug.org/) - Website**
 - **[Java Lviv](https://www.facebook.com/groups/jug.lviv/) - Facebook**
 - **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
