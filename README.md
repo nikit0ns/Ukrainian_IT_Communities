@@ -62,7 +62,7 @@
 - **[Вивчаємо Rust Разом](https://t.me/rustlang_ua) - Telegram Chat**
 - **[IT KPI – Python](https://t.me/itkpi_python) - Telegram Chat**
 - **[Команда Python](https://t.me/chatpythonua) - Telegram Chat**
-- **[PHP Friends Club Ukraine Chat](https://t.me/phpfriendsclub_chat) - Telegram Chat**
+- **[PHP Friends Club Ukraine Chat](https://phpfriends.club) - Telegram Chat**
 - **[PyCON](https://www.meetup.com/uapycon/) - Website**
 - **[UAGolang](https://www.meetup.com/uagolang/) - Website**
 - **[Laravel UA](https://t.me/laravel_ua) - Telegram Chat**
