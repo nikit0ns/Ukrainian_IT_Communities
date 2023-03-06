@@ -33,6 +33,7 @@
 - **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[DOU](https://dou.ua/) - Website** 
+- **[Linuxmint](https://t.me/linuxmint_com) - Telegram Chat**
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
 - **[IT KPI Chat](https://t.me/itkpi_flood) - Telegram Chat**
