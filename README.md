@@ -156,6 +156,7 @@
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
 - **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
+- **[Junior дайджест dou.ua](https://t.me/junior_dou_ua) - Telegram Channel**
 - **[Вакансії без смаколиків](https://t.me/kpi_work) - Telegram Channel**
 - **[Jobs IT UA](https://t.me/jobsitua) - Telegram Chat**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
