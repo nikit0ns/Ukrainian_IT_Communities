@@ -136,6 +136,7 @@
 - **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
 - **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[Корисності для Ґаджетів](https://t.me/korysnosti) - Telegram Channel**
+- **[Технології, медіа та суспільство](https://t.me/brodetsky) - Telegram Channel**
 - **[Крекер](https://t.me/cracker_ua) - Telegram Channel**
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
