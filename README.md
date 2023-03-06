@@ -85,6 +85,7 @@
 - **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Channel**
 - **[Arsen Kolyba](https://twitter.com/arsenkolyba) - Twitter**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
+- **[Продизайн](https://t.me/prodesign_in_ua) - Telegram Channel**
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
 - **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
