@@ -152,6 +152,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
 
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
+- **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
 - **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
