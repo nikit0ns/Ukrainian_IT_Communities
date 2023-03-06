@@ -51,7 +51,7 @@
 - **[.NET Tech Learn | UA](https://t.me/net_tech_learn) - Telegram Chat**
 - **[Scala Hero](https://t.me/scala_hero) - Telegram Chat**
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
-- **[PHP Friends Club Ukraine Chat](https://phpfriends.club/) - Website**
+- **[PHP Friends Club](https://phpfriends.club/) - Website**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
 - **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
 - **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat**
