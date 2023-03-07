@@ -9,7 +9,7 @@
 
 - **Communities should originate from Ukraine or be related to Ukraine.**
 - **Ukrainian language is welcome and well-understood inside a community.**
-- **Community can be a Slack or Telegram group, Web forum, YouTube channel, basically everything where people can communicate with each other.**
+- **Community can be a Slack or Telegram group, Twitter, Web forum, Discord, YouTube channel, basically everything where people can communicate with each other.**
 - **Community should be active.**
 - **Use the following format: `- **[Name](link) - **Platform**` , where `Platform`  describes where your community is hosted e.g. Telegram, Slack, Facebook, Website, etc.**
 - **Check your spelling and grammar.**
