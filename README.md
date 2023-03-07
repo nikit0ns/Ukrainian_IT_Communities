@@ -140,7 +140,7 @@
 
 ## <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> Blockchain
 
-- **[Near Protocol Ukrainians Guild](https://t.me/nearprotocolua) - Telegram Chat**
+- **[Near Ukrainians Guild - україномовна спільнота](https://t.me/nearprotocolua) - Telegram Chat**
 - **[Near Protocol Ukrainians Guild](https://t.me/nearprotocoluachannel) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
