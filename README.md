@@ -92,7 +92,6 @@
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
 - **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
-- **[Substance painter Ukraine](https://t.me/SP_Ukraine) - Telegram Channel**
 - **[ІТ КПІ - Design](https://t.me/itkpi_design) - Telegram Chat**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> DevOps
@@ -131,6 +130,7 @@
 - **[Ігровари](https://discord.gg/tMEJx47v8U) - Discord**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
 - **[Intro to Gamedev - Chat](https://t.me/kpigamedev_chat) - Telegram Chat**
+- **[Substance painter Ukraine](https://t.me/SP_Ukraine) - Telegram Channel**
 - **[Unity chat | UA](https://t.me/unity_ua_chat) - Telegram Chat**
 - **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
 - **[Unreal Engine (UA)](https://t.me/ua_ue) - Telegram Chat**
