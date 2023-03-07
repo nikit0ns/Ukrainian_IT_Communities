@@ -114,6 +114,7 @@
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
 - **[JavaScript.Ninja](https://t.me/javascript_ninja) - Telegram Chat**
+- **[Free React Course For Beginners](https://t.me/reactbeginners) - Telegram Channel**
 - **[Akella](https://twitter.com/akella) - Twitter**
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
 - **[Frontend Info](https://t.me/frontend_info) - Telegram Channel**
