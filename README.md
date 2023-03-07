@@ -116,6 +116,7 @@
 - **[ІТ КПІ - JS](https://t.me/itkpi_js) - Telegram Chat**
 - **[Frontend Info](https://t.me/frontend_info) - Telegram Channel**
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsannouncements) - Telegram Channel**
+- **[Angular Kyiv](https://t.me/angularkyiv) - Telegram Chat**
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
