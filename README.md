@@ -110,6 +110,7 @@
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat**
 - **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
+- **[Akella](https://twitter.com/akella) - Twitter**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
