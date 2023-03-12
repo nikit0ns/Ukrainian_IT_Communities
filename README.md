@@ -99,6 +99,7 @@
 
 - **[Docker/Kubernetes Українською](https://t.me/k8s_ua) - Telegram Chat**
 - **[CatOps Chat](https://t.me/catops_chat) - Telegram Chat**
+- **[Updates rtfm.co.ua](https://t.me/rtfmcoua) - Telegram Channel**
 - **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups** 
 - **[DevOps DOU](https://t.me/devops_dou) - Telegram Channel**
 - **[ДевОпс Інженер](https://t.me/devopsengineer) - Telegram Channel**
