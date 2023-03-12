@@ -98,15 +98,15 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> DevOps
 
 - **[Docker/Kubernetes Українською](https://t.me/k8s_ua) - Telegram Chat**
+- **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups** 
 - **[CatOps Chat](https://t.me/catops_chat) - Telegram Chat**
 - **[Updates rtfm.co.ua](https://t.me/rtfmcoua) - Telegram Channel**
-- **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups** 
 - **[DevOps DOU](https://t.me/devops_dou) - Telegram Channel**
+- **[HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - MeetUp**
 - **[ДевОпс Інженер](https://t.me/devopsengineer) - Telegram Channel**
 - **[Sysadmin Tools](https://t.me/sysadmin_tools) - Telegram Channel**
-- **[HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - MeetUp**
-- **[IT KPI - DevOps](https://t.me/itkpi_devops) - Telegram Chat**
 - **[UkrOps](https://ukrops.club/) - Slack**
+- **[IT KPI - DevOps](https://t.me/itkpi_devops) - Telegram Chat**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
