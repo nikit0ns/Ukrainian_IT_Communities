@@ -145,6 +145,7 @@
 
 ## <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> Blockchain
 
+- **[Kyiv Ethereum Community](https://t.me/+14AxAM83scMyN2Ri) - Telegram Chat**
 - **[Near Ukrainians Guild - україномовна спільнота](https://t.me/nearprotocolua) - Telegram Chat**
 - **[Crypto Home Chat](https://t.me/cryptohomecommunity) - Telegram Chat**
 - **[Near Ukrainians Guild - Анонси](https://t.me/nearprotocoluachannel) - Telegram Channel**
