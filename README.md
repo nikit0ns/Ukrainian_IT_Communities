@@ -35,6 +35,7 @@
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[Підслухано в ІТ](https://t.me/fivekusd) - Telegram Channel**
 - **[DOU](https://dou.ua/) - Website** 
+- **[DOU YouTube](https://www.youtube.com/@DOU_youtube) - YouTube**
 - **[Linuxmint](https://t.me/linuxmint_com) - Telegram Chat**
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
