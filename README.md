@@ -28,6 +28,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
 
 - **[dev.ua | IT України](https://t.me/devukraine) - Telegram Channel**
+- **[Highload — медіа для розробників](https://t.me/highloadtoday) - Telegram Channel**
 - **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
 - **[Telegram Developers](https://t.me/botoid) - Telegram Chat**
 - **[Rude Chat](https://t.me/rude_chat) - Telegram Chat**
