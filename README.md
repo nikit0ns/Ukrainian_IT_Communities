@@ -114,6 +114,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> Hardware & Embedded
 
 - **[MikroTik Ukraine](https://t.me/mtikua) - Telegram Chat**
+- **[IT KPI Assembler & Reverse Engineering](https://t.me/itkpi_reveng) - Telegram Chat**
 - **[Mikrotik UA](https://t.me/mikrotik_ukr) - Telegram Chat**
 - **[IT КПІ - 3D Print](https://t.me/itkpi_3dprint) - Telegram Chat**
 - **[Embedded Lab](https://t.me/embedded_lab) - Telegram Chat**
