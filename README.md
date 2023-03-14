@@ -180,6 +180,7 @@
 - **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+2eLa4anP5Z5hNzIy) - Telegram Channel**
 - **[INNOVATOR](https://t.me/innovator_ua) - Telegram Channel**
+- **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
 - **[AI Hub](https://t.me/aihubua) - Telegram Channel**
 - **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
 
