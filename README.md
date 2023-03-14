@@ -87,6 +87,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
 
 - **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Channel**
+- **[Art UA | Художники | Ілюстратори](https://t.me/art_ua_2D) - Telegram Chat**
 - **[Продизайн](https://t.me/prodesign_in_ua) - Telegram Channel**
 - **[Arsen Kolyba](https://twitter.com/arsenkolyba) - Twitter**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
