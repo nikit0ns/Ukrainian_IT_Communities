@@ -114,6 +114,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> Hardware & Embedded
 
 - **[Embedded Lab](https://t.me/embedded_lab) - Telegram Chat**
+- **[ІТ КПІ - Embedded](https://t.me/itkpi_embedded) - Telegram Chat**
 - **[Сisco UA](https://t.me/ciscoua) - Telegram Chat**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
