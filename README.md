@@ -163,6 +163,7 @@
 - **[Near Ukrainians Guild - україномовна спільнота](https://t.me/nearprotocolua) - Telegram Chat**
 - **[Crypto Home Chat](https://t.me/cryptohomecommunity) - Telegram Chat**
 - **[Near Ukrainians Guild - Анонси](https://t.me/nearprotocoluachannel) - Telegram Channel**
+- **[Incrypted UA](https://t.me/incrypted_UA) - Telegram Channel**
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
 
