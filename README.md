@@ -113,6 +113,8 @@
 
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> Hardware & Embedded
 
+- **[Arduino Україна](https://t.me/arduino_ua_chat) - Telegram Chat**
+- **[Raspberry Pi Україна](https://t.me/raspberry_pi_ua) - Telegram Chat**
 - **[MikroTik Ukraine](https://t.me/mtikua) - Telegram Chat**
 - **[IT KPI Assembler & Reverse Engineering](https://t.me/itkpi_reveng) - Telegram Chat**
 - **[Mikrotik UA](https://t.me/mikrotik_ukr) - Telegram Chat**
