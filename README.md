@@ -198,6 +198,7 @@
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
+- **[CG / GameDev Job (Ukraine)](https://t.me/CgGameDevJobs) - Telegram Chat**
 - **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
 - **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
 - **[Junior дайджест dou.ua](https://t.me/junior_dou_ua) - Telegram Channel**
