@@ -191,6 +191,7 @@
 ## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
 
 - **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
+- **[JavaSkvirt // IT Memes](https://t.me/+kkDunEvwuh1jN2Vi) - Telegram Channel**
 - **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
 - **[Гумр-р-р Гумор | Жарти | Меми](https://t.me/fun_ua) - Telegram Channel**
 
