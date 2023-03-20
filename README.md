@@ -33,7 +33,6 @@
 - **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
 - **[Telegram Developers](https://t.me/botoid) - Telegram Chat**
 - **[Rude Chat](https://t.me/rude_chat) - Telegram Chat**
-- **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[Підслухано в ІТ](https://t.me/fivekusd) - Telegram Channel**
 - **[DOU](https://dou.ua/) - Website** 
