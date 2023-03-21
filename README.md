@@ -130,6 +130,7 @@
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
 - **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
+- **[WebGL UA / Creative Coding](https://t.me/webgl_ua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
 - **[JavaScript.Ninja](https://t.me/javascript_ninja) - Telegram Chat**
 - **[Free React Course For Beginners](https://t.me/reactbeginners) - Telegram Channel**
