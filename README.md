@@ -94,6 +94,7 @@
 - **[Webflow.Ukraine](https://t.me/webflow_ukraine) - Telegram Chat**  
 - **[Arsen Kolyba](https://twitter.com/arsenkolyba) - Twitter**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
+- **[Houdini UA](https://t.me/houdiniua) - Telegram Chat**
 - **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Channel**
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
