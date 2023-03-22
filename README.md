@@ -10,6 +10,8 @@
 
 **Please, see [this guide](https://github.com/nikit0ns/Ukrainian_IT_Communities/blob/master/CONTRIBUTING.md), if you want to contribute to this list.**
 
+**<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="20" height="20" alt="telegrambot"/> [Visit our Telegram Bot](https://t.me/Ukrainian_IT_Communities_Bot)**
+
 ## Contents
 
 - <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#-it-in-general)**
