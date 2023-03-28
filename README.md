@@ -64,6 +64,7 @@
 - **[IT KPI Go](https://t.me/itkpi_go) - Telegram Chat**
 - **[IT KPI Java](https://t.me/itkpi_java) - Telegram Chat** 
 - **[PyCON](https://www.meetup.com/uapycon/) - Website**
+- **[ASAP Developer](https://t.me/asapdeveloper) - Telegram Channel**
 - **[IT KPI PHP](https://t.me/itkpi_php) - Telegram Chat**
 - **[IT KPI Rust](https://t.me/itkpi_rust) - Telegram Chat**
 - **[KyivHaskell](https://t.me/KyivHaskell) - Telegram Chat**
