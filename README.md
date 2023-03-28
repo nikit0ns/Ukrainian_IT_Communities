@@ -93,6 +93,7 @@
 - **[ХЕЛПЕР](https://t.me/ua_HELPER_ua) - Telegram Channel**
 - **[Webflow.Ukraine](https://t.me/webflow_ukraine) - Telegram Chat**  
 - **[Arsen Kolyba](https://twitter.com/arsenkolyba) - Twitter**
+- **[Малей Дизайн](https://t.me/webium_design) - Telegram Channel**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
 - **[Houdini UA](https://t.me/houdiniua) - Telegram Chat**
 - **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Channel**
