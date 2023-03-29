@@ -55,6 +55,7 @@
 - **[CoffeeJUG](https://www.coffeejug.org/) - Website**
 - **[Lviv .NET Community](https://t.me/lvivdotnet) - Telegram Chat**
 - **[.NET Tech Learn | UA](https://t.me/net_tech_learn) - Telegram Chat**
+- **[GolangUA](https://t.me/golang_ua_official) - Telegram Chat**
 - **[Scala Hero](https://t.me/scala_hero) - Telegram Chat**
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
 - **[PHP Friends Club](https://phpfriends.club/) - Website**
