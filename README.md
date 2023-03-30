@@ -159,6 +159,7 @@
 - **[Ігровари](https://discord.gg/tMEJx47v8U) - Discord**
 - **[CG UA](https://t.me/cgi_ua) - Telegram Chat**
 - **[Український інді геймдев](https://t.me/indieukraine) - Telegram Chat**
+- **[Обговорення Ігротворення](https://t.me/talk_about_game_dev) - Telegram Chat**
 - **[Godot Ukraine](https://t.me/GodotUkraine) - Telegram Chat**
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
