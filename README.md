@@ -10,25 +10,25 @@
 
 **Please, see [this guide](https://github.com/nikit0ns/Ukrainian_IT_Communities/blob/master/CONTRIBUTING.md), if you want to contribute to this list.**
 
-**<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="20" height="20" alt="telegrambot"/> [Visit our Telegram Bot](https://t.me/Ukrainian_IT_Communities_Bot)**
+**<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" width="20" height="20" alt="telegrambot"/> [Visit our Telegram Bot](https://t.me/Ukrainian_IT_Communities_Bot)**
 
 ## Contents
 
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#-it-in-general)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#-backend)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases](#-databases)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#-design)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#-devops)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded](#-hardware--embedded)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#-it-in-general)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#-backend)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases](#-databases)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#-design)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#-devops)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded](#-hardware--embedded)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
 - <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> **[Blockchain](#-blockchain)** 
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#-industry-news)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#-artificial-intelligence)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#-memes)**
-- <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#-vacancies-work-employment)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#-industry-news)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#-artificial-intelligence)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#-memes)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#-vacancies-work-employment)**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
 
 - **[GitHub Repositories](https://t.me/+9jQf1HcbfNU4Nzky) - Telegram Channel**
 - **[dev.ua | IT України](https://t.me/devukraine) - Telegram Channel**
@@ -48,7 +48,7 @@
 - **[Програмісти і печеньки](https://t.me/include_anime) - Telegram Chat**
 - **[IT Двіж](https://t.me/it_dvizh_ua) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
 - **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
 - **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
@@ -81,14 +81,14 @@
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
 
 - **[IT KPI - Databases](https://t.me/itkpi_db) - Telegram Chat**
 - **[SQL Ukraine](https://t.me/sql_ua) - Telegram Chat** 
 - **[PostgreSQL Ukraine](https://t.me/PostgresUkraine) - Telegram Chat**
 - **[UDCK (Ukrainian Data Community Kyiv)](https://www.facebook.com/groups/kssug/) - Facebook**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
 
 - **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Channel**
 - **[Art UA | Художники | Ілюстратори](https://t.me/art_ua_2D) - Telegram Chat**
@@ -106,7 +106,7 @@
 - **[Дизайнери та ілюстратори України](https://t.me/illustukr) - Telegram Chat**
 - **[ІТ КПІ - Design](https://t.me/itkpi_design) - Telegram Chat**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> DevOps
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> DevOps
 
 - **[Docker/Kubernetes Українською](https://t.me/k8s_ua) - Telegram Chat**
 - **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups** 
@@ -119,7 +119,7 @@
 - **[UkrOps](https://ukrops.club/) - Slack**
 - **[IT KPI - DevOps](https://t.me/itkpi_devops) - Telegram Chat**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> Hardware & Embedded
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> Hardware & Embedded
 
 - **[Arduino Україна](https://t.me/arduino_ua_chat) - Telegram Chat**
 - **[Raspberry Pi Україна](https://t.me/raspberry_pi_ua) - Telegram Chat**
@@ -131,7 +131,7 @@
 - **[ІТ КПІ - Embedded](https://t.me/itkpi_embedded) - Telegram Chat**
 - **[Сisco UA](https://t.me/ciscoua) - Telegram Chat**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat**
 - **[Перша Всеукраїнська Фронтярня](https://t.me/frontiarnia) - Telegram Chat**
@@ -154,7 +154,7 @@
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> Game Development
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> Game Development
 
 - **[Ігровари](https://discord.gg/tMEJx47v8U) - Discord**
 - **[CG UA](https://t.me/cgi_ua) - Telegram Chat**
@@ -181,7 +181,7 @@
 - **[Near Ukrainians Guild - Анонси](https://t.me/nearprotocoluachannel) - Telegram Channel**
 - **[Incrypted UA](https://t.me/incrypted_UA) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
 
 - **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
 - **[HiTech.Expert](https://expert.com.ua/) - Website**
@@ -193,7 +193,7 @@
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence
 
 - **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+2eLa4anP5Z5hNzIy) - Telegram Channel**
@@ -202,14 +202,14 @@
 - **[AI Hub](https://t.me/aihubua) - Telegram Channel**
 - **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
 
 - **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
 - **[JavaSkvirt // IT Memes](https://t.me/+kkDunEvwuh1jN2Vi) - Telegram Channel**
 - **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
 - **[Ой meme](https://t.me/oumeme) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
 
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
@@ -222,7 +222,7 @@
 - **[Jobs IT UA](https://t.me/jobsitua) - Telegram Chat**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
 
-## <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> Created by Nikita Kasyanenko
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> Created by Nikita Kasyanenko
 
 - **Email: nikitakasyanenko2005@gmail.com**
 - **Telegram: [@nikit0ns](https://t.me/nikit0ns)**
