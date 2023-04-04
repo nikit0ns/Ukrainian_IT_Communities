@@ -45,6 +45,7 @@
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[DOU YouTube](https://www.youtube.com/@DOU_youtube) - YouTube**
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
+- **[Fwdays - Tech Events](https://fwdays.com) - Website**
 - **[IT KPI Chat](https://t.me/itkpi_flood) - Telegram Chat**
 - **[IT KPI Non Tech](https://t.me/itkpi_non_tech) - Telegram Chat**
 - **[Програмісти і печеньки](https://t.me/include_anime) - Telegram Chat**
