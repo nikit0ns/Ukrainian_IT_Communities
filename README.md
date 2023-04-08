@@ -77,6 +77,7 @@
 - **[IT KPI – Python](https://t.me/itkpi_python) - Telegram Chat**
 - **[Команда Python](https://t.me/chatpythonua) - Telegram Chat**
 - **[UAGolang](https://www.meetup.com/uagolang/) - Website**
+- **[UA .NET community](https://t.me/+TvpQn1N6oPV256S8) - Telegram Chat**
 - **[Laravel UA](https://t.me/laravel_ua) - Telegram Chat**
 - **[Lviv Python Community](https://t.me/lviv_python_community) - Telegram Chat** 
 - **[Java Lviv](https://www.facebook.com/groups/jug.lviv/) - Facebook**
