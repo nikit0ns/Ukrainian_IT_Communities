@@ -166,6 +166,7 @@
 - **[Обговорення Ігротворення](https://t.me/talk_about_game_dev) - Telegram Chat**
 - **[Godot Ukraine](https://t.me/GodotUkraine) - Telegram Chat**
 - **[Game Development UA](https://t.me/gamedevua) - Telegram Chat**
+- **[Blender Venus](https://t.me/blender_venus) - Telegram Channel**
 - **[Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) - Telegram Chat**
 - **[Intro to Gamedev - Chat](https://t.me/kpigamedev_chat) - Telegram Chat**
 - **[Substance painter Ukraine](https://t.me/SP_Ukraine) - Telegram Channel**
