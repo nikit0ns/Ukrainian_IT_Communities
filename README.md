@@ -147,6 +147,7 @@
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[WebGL UA / Creative Coding](https://t.me/webgl_ua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
+- **[https://www.youtube.com/@serhii.chernenko](Serhii Chernenko) - YouTube**
 - **[JavaScript.Ninja](https://t.me/javascript_ninja) - Telegram Chat**
 - **[Free React Course For Beginners](https://t.me/reactbeginners) - Telegram Channel**
 - **[Akella](https://twitter.com/akella) - Twitter**
