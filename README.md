@@ -134,6 +134,7 @@
 - **[Embedded Lab](https://t.me/embedded_lab) - Telegram Chat**
 - **[ІТ КПІ - Embedded](https://t.me/itkpi_embedded) - Telegram Chat**
 - **[Сisco UA](https://t.me/ciscoua) - Telegram Chat**
+- **[Embedded Kyiv](https://t.me/embeddedkyiv) - Telegram Chat**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
