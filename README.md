@@ -222,6 +222,7 @@
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[Don't Panic Junior IT Jobs](https://t.me/Job_IT_Junior) - Telegram Chat**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
+- **[Наймарня](https://t.me/naymarnya) - Telegram Chat**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[CG / GameDev Job (Ukraine)](https://t.me/CgGameDevJobs) - Telegram Chat**
 - **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
