@@ -220,6 +220,7 @@
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
 
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
+- **[Don't Panic Junior IT Jobs](https://t.me/Job_IT_Junior) - Telegram Chat**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[CG / GameDev Job (Ukraine)](https://t.me/CgGameDevJobs) - Telegram Chat**
