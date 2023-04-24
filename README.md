@@ -220,12 +220,13 @@
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
 
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
-- **[Don't Panic Junior IT Jobs](https://t.me/Job_IT_Junior) - Telegram Chat**
+- **[Don't Panic Junior IT Jobs](https://t.me/Job_IT_Junior) - Telegram Channel**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
-- **[Наймарня](https://t.me/naymarnya) - Telegram Chat**
+- **[Наймарня](https://t.me/naymarnya) - Telegram Channel**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[CG / GameDev Job (Ukraine)](https://t.me/CgGameDevJobs) - Telegram Chat**
 - **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
+- **[Женя з Don't Panic](https://t.me/eugeneatdontpanic) - Telegram Channel**
 - **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
 - **[Junior дайджест dou.ua](https://t.me/junior_dou_ua) - Telegram Channel**
 - **[Вакансії без смаколиків](https://t.me/kpi_work) - Telegram Channel**
