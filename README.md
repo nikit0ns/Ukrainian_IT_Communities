@@ -206,6 +206,7 @@
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+7WSYqG4PQdw0NWIy) - Telegram Channel**
 - **[INNOVATOR](https://t.me/innovator_ua) - Telegram Channel**
 - **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
+- **[нейрокомедія: ІТ, ШІ та 🤖](https://t.me/+qgWqi5pHpm5hZWEy) - Telegram Channel**
 - **[AI Hub](https://t.me/aihubua) - Telegram Channel**
 - **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
 
