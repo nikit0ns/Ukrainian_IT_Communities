@@ -1,35 +1,7 @@
-site_name: Awesome Ukrainian IT Communities
-site_author: Yurii Rochniak
-site_description: A curated list of awesome Ukrainian IT communities
-site_url: https://awesome-it.in.ua
-repo_name: grem11n/awesome-it-communities-ua
-repo_url: https://github.com/grem11n/awesome-it-communities-ua
 theme:
-  name: material
-  logo: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo-ua.svg
-  palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: blue
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: blue
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - toc.integrate
+    - navigation.footer
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/grem11n/awesome-it-communities-ua
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/grem11n
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/yrochnyak/
+    - icon: fontawesome/brands/mastodon 
+      link: https://fosstodon.org/@squidfunk
