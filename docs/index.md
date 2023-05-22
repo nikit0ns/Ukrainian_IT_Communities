@@ -1,0 +1,1 @@
+/home/mykhailo.sviechkin/projects/Ukrainian_IT_Communities/README.md
