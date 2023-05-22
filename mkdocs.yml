@@ -23,5 +23,6 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/mastodon 
-      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/nikit0ns
+    
