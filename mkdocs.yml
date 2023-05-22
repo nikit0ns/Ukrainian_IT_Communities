@@ -1,4 +1,6 @@
+site_name: Ukrainian IT Communities
 theme:
+  name: mkdocs
   features:
     - navigation.footer
 extra:
