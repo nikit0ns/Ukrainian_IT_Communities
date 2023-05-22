@@ -10,9 +10,9 @@
 
 **Please, see [this guide](https://github.com/nikit0ns/Ukrainian_IT_Communities/blob/master/CONTRIBUTING.md), if you want to contribute to this list.**
 
-**<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> [See on GitHub](https://github.com/nikit0ns/Ukrainian_IT_Communities)**
-**<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Firefox.png" width="20" height="20" alt="website"/> [Visit our Website](https://nikit0ns.github.io/Ukrainian_IT_Communities)**
-**<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" width="20" height="20" alt="telegrambot"/> [Visit our Telegram Bot](https://t.me/Ukrainian_IT_Communities_Bot)**
+- **<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> [See on GitHub](https://github.com/nikit0ns/Ukrainian_IT_Communities)**
+- **<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Firefox.png" width="20" height="20" alt="website"/> [Visit our Website](https://nikit0ns.github.io/Ukrainian_IT_Communities)**
+- **<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" width="20" height="20" alt="telegrambot"/> [Visit our Telegram Bot](https://t.me/Ukrainian_IT_Communities_Bot)**
 
 ## Contents
 
