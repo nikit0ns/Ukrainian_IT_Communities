@@ -7,9 +7,6 @@ build:
     cp $(pwd)/README.md $(pwd)/docs/index.md
     cp $(pwd)/CONTRIBUTING.md $(pwd)/docs/CONTRIBUTING.md
     mkdocs build
-    echo -e Removing temp files
-    rm docs/index.md
-    rm docs/CONTRIBUTING.md
 
 deploy:
     mkdocs gh-deploy
