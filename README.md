@@ -16,19 +16,19 @@
 
 ## Contents
 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#it-in-general)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#backend)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases](#databases)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#design)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#devops)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded](#hardware--embedded)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#frontend)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#game-development)**
-- <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> **[Blockchain](#blockchain)** 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#industry-news)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#artificial-intelligence)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#memes)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#vacancies-work-employment)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#-it-in-general)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#-backend)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases](#-databases)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#-design)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#-devops)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded](#-hardware--embedded)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
+- <img src="https://bafkreigaiecsgozttlzmkd5ztxl22m5vs4xnldci74tmj2rbed7nyuwode.ipfs.nftstorage.link" width="20" height="20" alt="blockchain"/> **[Blockchain](#-blockchain)** 
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#-industry-news)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#-artificial-intelligence)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes](#-memes)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment](#-vacancies-work-employment)**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
 
