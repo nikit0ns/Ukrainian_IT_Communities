@@ -100,7 +100,6 @@
 - **[ХЕЛПЕР](https://t.me/ua_HELPER_ua) - Telegram Channel**
 - **[Webflow.Ukraine](https://t.me/webflow_ukraine) - Telegram Chat**  
 - **[Arsen Kolyba](https://twitter.com/arsenkolyba) - Twitter**
-- **[Farguk is Designing…](https://t.me/farguk_art) - Telegram Channel**
 - **[Малей Дизайн](https://t.me/webium_design) - Telegram Channel**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
 - **[Houdini UA](https://t.me/houdiniua) - Telegram Chat**
