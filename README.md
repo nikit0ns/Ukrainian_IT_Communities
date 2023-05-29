@@ -203,7 +203,6 @@
 
 - **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+7WSYqG4PQdw0NWIy) - Telegram Channel**
-- **[INNOVATOR](https://t.me/innovator_ua) - Telegram Channel**
 - **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
 - **[нейрокомедія: ІТ, ШІ та 🤖](https://t.me/+qgWqi5pHpm5hZWEy) - Telegram Channel**
 - **[Audentes AI Solutions](https://t.me/+gHRLFGu1R6o3MmI6) - Telegram Channel**
