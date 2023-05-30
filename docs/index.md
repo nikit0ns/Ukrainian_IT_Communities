@@ -137,6 +137,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> Frontend
 
+- **[Ти не знаєш JavaScript](https://t.me/+mk_53oHEdl04ODBi) - Telegram Channel**
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsukraine) - Telegram Chat**
 - **[Перша Всеукраїнська Фронтярня](https://t.me/frontiarnia) - Telegram Chat**
 - **[ANGULAR СПІЛЬНОТА](https://t.me/angular_community_ua) - Telegram Chat**
@@ -220,6 +221,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
 
+- **[IT Бро - Junior IT вакансії, івенти, навчання](https://t.me/+zgoGZTZvie9mOTEy) - Telegram Channel**
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[Don't Panic Junior IT Jobs](https://t.me/Job_IT_Junior) - Telegram Channel**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
