@@ -33,6 +33,7 @@
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
 
 - **[GitHub Repositories](https://t.me/+9jQf1HcbfNU4Nzky) - Telegram Channel**
+- **[ДеВи?](https://t.me/dev_prjctr) - Telegram Channel**
 - **[dev.ua | IT України](https://t.me/devukraine) - Telegram Channel**
 - **[Highload — медіа для розробників](https://t.me/highloadtoday) - Telegram Channel**
 - **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
@@ -94,6 +95,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
 
+- **[interfaces.prjctr](https://t.me/interfaces_prjctr) - Telegram Channel**
 - **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Channel**
 - **[Art UA | Художники | Ілюстратори](https://t.me/art_ua_2D) - Telegram Chat**
 - **[Продизайн](https://t.me/prodesign_in_ua) - Telegram Channel**
@@ -204,6 +206,7 @@
 
 - **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+7WSYqG4PQdw0NWIy) - Telegram Channel**
+- **[Aidful](https://t.me/aidfulmedia) - Telegram Channel**
 - **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
 - **[нейрокомедія: ІТ, ШІ та 🤖](https://t.me/+qgWqi5pHpm5hZWEy) - Telegram Channel**
 - **[Audentes AI Solutions](https://t.me/+gHRLFGu1R6o3MmI6) - Telegram Channel**
