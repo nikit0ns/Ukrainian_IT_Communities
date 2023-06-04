@@ -33,6 +33,20 @@ extra:
       link: https://instagram.com/nikitons_/
   analytics:
     provider: google
-    property: G-KWT5DEYZWX
+    property: G-KWT5DEYZWX 
+    feedback:
+      title: Чи була ця сторінка корисною?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Ця сторінка була корисною
+          data: 1
+          note: >-
+            Дякуємо за ваш відгук!
+        - icon: material/thumb-down-outline
+          name: Цю сторінку можна покращити
+          data: 0
+          note:  
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCAJxbTuu43ezWul416gSV4SpZFYriK8sF__Qfemz_UZZ_pg/viewform" target="_blank" rel="noopener">feedback form</a>.
 
 copyright: Copyright &copy; 2023 Nikita Kasyanenko
