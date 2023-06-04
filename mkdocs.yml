@@ -31,7 +31,6 @@ extra:
       link: https://twitter.com/NikitaKasanenk1
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/nikitons_/
-extra:  
   analytics:
     provider: google
     property: G-KWT5DEYZWX
