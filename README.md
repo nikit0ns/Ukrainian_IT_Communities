@@ -41,7 +41,8 @@
 - **[Rude Chat](https://t.me/rude_chat) - Telegram Chat**
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[Підслухано в ІТ](https://t.me/fivekusd) - Telegram Channel**
-- **[DOU](https://dou.ua/) - Website** 
+- **[DOU](https://dou.ua/) - Website**
+- **[DOU #tech](https://t.me/dou_tech) - Telegram Channel** 
 - **[Linuxmint](https://t.me/linuxmint_com) - Telegram Chat**
 - **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[DOU YouTube](https://www.youtube.com/@DOU_youtube) - YouTube**
@@ -150,6 +151,7 @@
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[WebGL UA / Creative Coding](https://t.me/webgl_ua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
+- **[DOU | Front-end](https://t.me/frontend_dou) - Telegram Channel**
 - **[Serhii Chernenko](https://www.youtube.com/@serhii.chernenko) - YouTube**
 - **[JavaScript.Ninja](https://t.me/javascript_ninja) - Telegram Chat**
 - **[Free React Course For Beginners](https://t.me/reactbeginners) - Telegram Channel**
