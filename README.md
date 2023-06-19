@@ -215,6 +215,10 @@
 - **[ChatGPT, dude!](https://t.me/+NTeiTriTdroxN2Qy) - Telegram Channel**
 - **[AI Hub](https://t.me/aihubua) - Telegram Channel**
 - **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
+- **[Розпізнавання мови](https://t.me/speech_recognition_uk) - Telegram Channel**
+- **[Синтез мовлення](https://t.me/speech_synthesis_uk) - Telegram Channel**
+- **[Computer Vision українською](https://t.me/computer_vision_uk) - Telegram Channel**
+- **[NLP української мови](https://t.me/nlp_uk) - Telegram Channel**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
 
