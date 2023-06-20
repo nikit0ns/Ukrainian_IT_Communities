@@ -85,7 +85,8 @@
 - **[Java Lviv](https://www.facebook.com/groups/jug.lviv/) - Facebook**
 - **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
-- **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
+- **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat**
+- **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
 
@@ -148,7 +149,6 @@
 - **[JavaScript.Info](https://javascript.info/) - Website**
 - **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
-- **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[WebGL UA / Creative Coding](https://t.me/webgl_ua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
