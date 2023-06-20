@@ -106,6 +106,7 @@
 - **[Малей Дизайн](https://t.me/webium_design) - Telegram Channel**
 - **[Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) - Telegram Channel**
 - **[Houdini UA](https://t.me/houdiniua) - Telegram Chat**
+- **[Конспект геймдизайнера](https://t.me/gamedesignercompendium) - Telegram Channel**
 - **[Game Designer Notes](https://t.me/GameDesigner_Notes) - Telegram Channel**
 - **[Сад переплетених стежок](https://t.me/garden_of_forking_paths) - Telegram Channel**
 - **[Design Lviv](https://www.facebook.com/groups/272786659415583) - Facebook**
