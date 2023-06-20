@@ -246,6 +246,7 @@
 - **[Вакансії без смаколиків](https://t.me/kpi_work) - Telegram Channel**
 - **[Jobs IT UA](https://t.me/jobsitua) - Telegram Chat**
 - **[Junior Level: вакансії, івенти, можливості](https://t.me/+_4OZTSkAl3xhYTk6) - Telegram Channel**
+- **[IT-Sprout: перетворення ваших пет-проектів у цінні продукти](https://it-sprout.org.ua/) - Free Intenrship**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> Created by Nikita Kasyanenko
 
