@@ -65,6 +65,7 @@
 - **[.NET Chat](https://t.me/dotnet_chat) - Telegram Chat**
 - **[PHP Friends Club](https://phpfriends.club/) - Website**
 - **[Devdigest // UA](https://t.me/devdigest_ua) - Telegram Channel**
+- **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Python For Dummies](https://t.me/python_for_dummies) - Telegram Chat** 
 - **[IT KPI C/C++](https://t.me/itkpi_cpp) - Telegram Chat**
 - **[C/C++/Rust](https://t.me/cplusplusua) - Telegram Chat**
@@ -148,7 +149,6 @@
 - **[JavaScript.Info](https://javascript.info/) - Website**
 - **[Frontend Спільнота](https://t.me/frontend_community_ua) - Telegram Chat**
 - **[JS різноробочий | Fullstack JavaScript](https://t.me/fullstack_devs) - Telegram Chat**
-- **[NodeUA - JavaScript and Node.js in Ukraine](https://t.me/nodeua) - Telegram Chat**
 - **[Команда JS](https://t.me/chatjsua) - Telegram Chat**
 - **[WebGL UA / Creative Coding](https://t.me/webgl_ua) - Telegram Chat**
 - **[IT KPI Dart](https://t.me/dart_itkpi) - Telegram Channel**
