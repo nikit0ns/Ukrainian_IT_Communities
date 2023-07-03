@@ -201,6 +201,7 @@
 - **[Корисності для Ґаджетів](https://t.me/korysnosti) - Telegram Channel**
 - **[Записи Орестотеля - GameDev Reports & News](https://t.me/Orestotle_Gamedev) - Telegram Channel**
 - **[Технології, медіа та суспільство](https://t.me/brodetsky) - Telegram Channel**
+- **[SPEKA](https://t.me/spekamedia) - Telegram Channel**
 - **[Крекер](https://t.me/cracker_ua) - Telegram Channel**
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
