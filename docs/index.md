@@ -36,6 +36,7 @@
 - **[ДеВи?](https://t.me/dev_prjctr) - Telegram Channel**
 - **[Open Source For Ukraine](https://t.me/OpenSourceForUkraine) - Telegram Chat**
 - **[dev.ua | IT України](https://t.me/devukraine) - Telegram Channel**
+- **[Айтішно](https://t.me/+gMWcQ_6X0_k2OWJi) - Telegram Channel**
 - **[Highload — медіа для розробників](https://t.me/highloadtoday) - Telegram Channel**
 - **[Світчери України](https://t.me/it_switchers_ukraine) - Telegram Chat**
 - **[Telegram Developers](https://t.me/botoid) - Telegram Chat**
