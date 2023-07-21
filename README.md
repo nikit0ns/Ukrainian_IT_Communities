@@ -164,6 +164,7 @@
 - **[Kottans | Front-end course](https://github.com/kottans/frontend) - Website**
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsannouncements) - Telegram Channel**
 - **[Angular Kyiv](https://t.me/angularkyiv) - Telegram Chat**
+- **[React – Україномовна Cпільнота 🇺🇦](https://t.me/reactjsukraine) - Telegram Chat**
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
