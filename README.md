@@ -101,7 +101,7 @@
 
 - **[interfaces.prjctr](https://t.me/interfaces_prjctr) - Telegram Channel**
 - **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Channel**
-- **[Art UA | Художники | Ілюстратори](https://t.me/art_ua_2D) - Telegram Chat**
+- **[Art UA | Художники | Ілюстратори](https://t.me/art_ua_chat) - Telegram Chat**
 - **[Продизайн](https://t.me/prodesign_in_ua) - Telegram Channel**
 - **[ХЕЛПЕР](https://t.me/ua_HELPER_ua) - Telegram Channel**
 - **[Webflow.Ukraine](https://t.me/webflow_ukraine) - Telegram Chat**  
@@ -164,7 +164,7 @@
 - **[Kottans | Front-end course](https://github.com/kottans/frontend) - Website**
 - **[TeaJS - JavaScript/Web3 спільнота](https://t.me/teajsannouncements) - Telegram Channel**
 - **[Angular Kyiv](https://t.me/angularkyiv) - Telegram Chat**
-- **[React – Україномовна Cпільнота 🇺🇦](https://t.me/reactjsukraine) - Telegram Chat**
+- **[React – Україномовна Cпільнота](https://t.me/reactjsukraine) - Telegram Chat**
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
