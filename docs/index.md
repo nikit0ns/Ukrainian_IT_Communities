@@ -77,7 +77,7 @@
 - **[IT KPI PHP](https://t.me/itkpi_php) - Telegram Chat**
 - **[IT KPI Rust](https://t.me/itkpi_rust) - Telegram Chat**
 - **[KyivHaskell](https://t.me/KyivHaskell) - Telegram Chat**
-- **[Вивчаємо Rust Разом](https://t.me/rustlang_ua) - Telegram Chat**
+- **[Українська Rust Спільнота](https://t.me/rustlang_ua) - Telegram Chat**
 - **[IT KPI – Python](https://t.me/itkpi_python) - Telegram Chat**
 - **[Команда Python](https://t.me/chatpythonua) - Telegram Chat**
 - **[UAGolang](https://www.meetup.com/uagolang/) - Website**
