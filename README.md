@@ -87,7 +87,7 @@
 - **[Java Lviv](https://www.facebook.com/groups/jug.lviv/) - Facebook**
 - **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine Telegram](https://t.me/terraform_ukraine) - Telegram Chat**
-- **[NestJS Ukraine Telegram](https://t.me/nest_ukraine) - Telegram Chat** 
+- **[NestJS Ukraine](https://t.me/nest_ukraine) - Telegram Chat** 
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
 
