@@ -85,7 +85,7 @@
 - **[Laravel UA](https://t.me/laravel_ua) - Telegram Chat**
 - **[Lviv Python Community](https://t.me/lviv_python_community) - Telegram Chat** 
 - **[Java Lviv](https://www.facebook.com/groups/jug.lviv/) - Facebook**
-- **[Scala Ukraine Telegram](https://t.me/scala_ukraine) - Telegram Chat**
+- **[Scala Ukraine](https://t.me/scala_ukraine) - Telegram Chat**
 - **[Terraform Ukraine](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine](https://t.me/nest_ukraine) - Telegram Chat** 
 
