@@ -46,7 +46,6 @@
 - **[DOU](https://dou.ua/) - Website**
 - **[DOU #tech](https://t.me/dou_tech) - Telegram Channel** 
 - **[Linuxmint](https://t.me/linuxmint_com) - Telegram Chat**
-- **[FAANG Interview](https://t.me/FaangInterview) - Telegram Chat** 
 - **[DOU YouTube](https://www.youtube.com/@DOU_youtube) - YouTube**
 - **[FAANG Tech Interview](https://t.me/FaangTechInterview) - Telegram Chat** 
 - **[Fwdays - Tech Events](https://fwdays.com) - Website**
