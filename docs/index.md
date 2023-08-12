@@ -122,7 +122,7 @@
 - **[UAFUG](https://groups.google.com/g/uafug) - GoogleGroups** 
 - **[CatOps Chat](https://t.me/catops_chat) - Telegram Chat**
 - **[Updates rtfm.co.ua](https://t.me/rtfmcoua) - Telegram Channel**
-- **[DevOps DOU](https://t.me/devops_dou) - Telegram Channel**
+- **[DOU | DevOps](https://t.me/devops_dou) - Telegram Channel**
 - **[HashiCorp User Group Kyiv](https://www.meetup.com/Kyiv-HashiCorp-User-Group/) - MeetUp**
 - **[ДевОпс Інженер](https://t.me/devopsengineer) - Telegram Channel**
 - **[Sysadmin Tools](https://t.me/sysadmin_tools) - Telegram Channel**
