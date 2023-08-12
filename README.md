@@ -242,7 +242,7 @@
 - **[Наймарня](https://t.me/naymarnya) - Telegram Channel**
 - **[IT job in UA](https://t.me/jobinit) - Telegram Channel**
 - **[CG / GameDev Job (Ukraine)](https://t.me/CgGameDevJobs) - Telegram Chat**
-- **[Вакансії Ємельянова](https://t.me/wwjobs) - Telegram Channel**
+- **[Вакансії Ємельянова | IT вакансії](https://t.me/wwjobs) - Telegram Channel**
 - **[Женя з Don't Panic](https://t.me/eugeneatdontpanic) - Telegram Channel**
 - **[IT Recruitment UA](https://t.me/itrecruit_ua) - Telegram Chat**
 - **[Халепний Рекрутинг](https://t.me/halepnyirecruiting) - Telegram Channel**
