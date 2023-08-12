@@ -211,7 +211,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence
 
-- **[ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
+- **[Matveev ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[ChatGPT UA | Актуально про ШІ](https://t.me/+7WSYqG4PQdw0NWIy) - Telegram Channel**
 - **[Aidful | Медіа про штучний інтелект](https://t.me/aidfulmedia) - Telegram Channel**
 - **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
