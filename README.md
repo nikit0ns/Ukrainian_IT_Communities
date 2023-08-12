@@ -200,7 +200,7 @@
 
 - **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
 - **[HiTech.Expert](https://expert.com.ua/) - Website**
-- **[Про IT в Україні Новини, івенти, стартапи](https://t.me/uatech_info) - Telegram Channel**
+- **[UaTech 🇺🇦 Про ІТ в Україні](https://t.me/uatech_info) - Telegram Channel**
 - **[Корисності для Ґаджетів](https://t.me/korysnosti) - Telegram Channel**
 - **[Записи Орестотеля - GameDev Reports & News](https://t.me/Orestotle_Gamedev) - Telegram Channel**
 - **[Технології, медіа та суспільство](https://t.me/brodetsky) - Telegram Channel**
