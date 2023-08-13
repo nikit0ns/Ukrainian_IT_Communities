@@ -197,6 +197,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
 
+- **[Комора Лінуксоїда | Linux](https://t.me/linux_ukraine) - Telegram Channel**
 - **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
 - **[HiTech.Expert](https://expert.com.ua/) - Website**
 - **[UaTech Про ІТ в Україні](https://t.me/uatech_info) - Telegram Channel**
