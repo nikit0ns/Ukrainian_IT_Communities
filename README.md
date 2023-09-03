@@ -56,6 +56,8 @@
 - **[IT Двіж](https://t.me/it_dvizh_ua) - Telegram Channel**
 - **[Алгоритми | Algoua](https://algoua.com/) - Website**
 
+
+
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
 - **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
