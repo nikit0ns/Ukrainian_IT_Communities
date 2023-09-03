@@ -54,6 +54,7 @@
 - **[IT KPI Non Tech](https://t.me/itkpi_non_tech) - Telegram Chat**
 - **[Програмісти і печеньки](https://t.me/include_anime) - Telegram Chat**
 - **[IT Двіж](https://t.me/it_dvizh_ua) - Telegram Channel**
+- **[Алгоритми | Algoua](https://algoua.com/) - Website**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
