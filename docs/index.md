@@ -25,7 +25,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded](#hardware-embedded)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#frontend)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#game-development)**
-- <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain](#blockchain)** 
+- <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#blockchain-5)** 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#industry-news)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#artificial-intelligence)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (3)](#memes-3)**
@@ -189,7 +189,7 @@
 - **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
 - **[GameDev DOU](https://t.me/gamedev_dou) - Telegram Channel**
 
-## <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> Blockchain
+## <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> Blockchain (5)
 
 - **[Kyiv Ethereum Community](https://t.me/+14AxAM83scMyN2Ri) - Telegram Chat**
 - **[Near Ukrainians Guild - україномовна спільнота](https://t.me/nearprotocolua) - Telegram Chat**
