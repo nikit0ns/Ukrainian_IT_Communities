@@ -235,7 +235,7 @@
 - **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
 
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment (15)
 
 - **[IT Бро - Junior IT вакансії, івенти, навчання](https://t.me/+zgoGZTZvie9mOTEy) - Telegram Channel**
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
