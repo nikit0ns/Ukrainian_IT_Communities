@@ -230,7 +230,6 @@
 - **[Ой meme](https://t.me/oumeme) - Telegram Channel**
 - **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
 - **[JavaSkvirt // IT Memes](https://t.me/+kkDunEvwuh1jN2Vi) - Telegram Channel**
-- **[Козак Мемай](https://t.me/kozakmem) - Telegram Channel**
 
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment (15)
