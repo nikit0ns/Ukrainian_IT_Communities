@@ -225,7 +225,7 @@
 - **[Computer Vision українською](https://t.me/computer_vision_uk) - Telegram Chat**
 - **[NLP української мови](https://t.me/nlp_uk) - Telegram Chat**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes (3)
 
 - **[Ой meme](https://t.me/oumeme) - Telegram Channel**
 - **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
