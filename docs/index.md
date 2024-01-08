@@ -216,7 +216,6 @@
 - **[Aidful | Медіа про штучний інтелект](https://t.me/aidfulmedia) - Telegram Channel**
 - **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
 - **[нейрокомедія: ІТ, ШІ та 🤖](https://t.me/+qgWqi5pHpm5hZWEy) - Telegram Channel**
-- **[Audentes AI Solutions](https://t.me/+gHRLFGu1R6o3MmI6) - Telegram Channel**
 - **[ChatGPT, dude!](https://t.me/+NTeiTriTdroxN2Qy) - Telegram Channel**
 - **[AI Hub](https://t.me/aihubua) - Telegram Channel**
 - **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
