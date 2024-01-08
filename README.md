@@ -22,7 +22,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases (4)](#-databases-4)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#-design)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps (10)](#-devops-10)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded (10)](#-hardware--embedded010)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded (10)](#-hardware--embedded-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
