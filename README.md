@@ -20,7 +20,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#-it-in-general)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#-backend)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases (4)](#-databases-4)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#-design)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design (16)](#-design-16)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps (10)](#-devops-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded (10)](#-hardware--embedded-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
@@ -100,7 +100,7 @@
 - **[PostgreSQL Ukraine](https://t.me/PostgresUkraine) - Telegram Chat**
 - **[UDCK (Ukrainian Data Community Kyiv)](https://www.facebook.com/groups/kssug/) - Facebook**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> Design (16)
 
 - **[interfaces.prjctr](https://t.me/interfaces_prjctr) - Telegram Channel**
 - **[Кмітливий інтерфейс](https://t.me/kmitlyvo) - Telegram Channel**
