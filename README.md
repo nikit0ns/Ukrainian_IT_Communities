@@ -26,7 +26,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News](#-industry-news)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (10)](#-industry-news-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence](#-artificial-intelligence)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (3)](#-memes-3)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (15)](#-vacancies-work-employment-15)**
@@ -199,7 +199,7 @@
 - **[Near Ukrainians Guild - Анонси](https://t.me/nearprotocoluachannel) - Telegram Channel**
 - **[Incrypted UA](https://t.me/incrypted_UA) - Telegram Channel**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> Industry News (10)
 
 - **[Техновини | Техновинки](https://t.me/technews_ua) - Telegram Channel**
 - **[HiTech.Expert](https://expert.com.ua/) - Website**
