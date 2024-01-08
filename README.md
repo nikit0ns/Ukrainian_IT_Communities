@@ -19,7 +19,7 @@
 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#-it-in-general)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#-backend)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases](#-databases)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases (4)](#-databases-4)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design](#-design)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps](#-devops)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded](#-hardware--embedded)**
@@ -93,7 +93,7 @@
 - **[Terraform Ukraine](https://t.me/terraform_ukraine) - Telegram Chat**
 - **[NestJS Ukraine](https://t.me/nest_ukraine) - Telegram Chat** 
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> Databases (4)
 
 - **[IT KPI - Databases](https://t.me/itkpi_db) - Telegram Chat**
 - **[SQL Ukraine](https://t.me/sql_ua) - Telegram Chat** 
