@@ -17,7 +17,7 @@
 
 ## Contents
 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General](#it-in-general)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General (22)](#it-in-general-22)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend](#backend)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases (4)](#databases-4)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design (16)](#design-16)**
@@ -31,7 +31,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (3)](#memes-3)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (15)](#vacancies-work-employment-15)**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (22)
 
 - **[GitHub Repositories](https://t.me/+9jQf1HcbfNU4Nzky) - Telegram Channel**
 - **[ДеВи?](https://t.me/dev_prjctr) - Telegram Channel**
