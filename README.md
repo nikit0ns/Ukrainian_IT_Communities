@@ -24,7 +24,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> **[DevOps (10)](#-devops-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded (10)](#-hardware--embedded-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend](#-frontend)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development](#-game-development)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development (17)](#-game-development-17)**
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (10)](#-industry-news-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (11)](#-artificial-intelligence-11)**
@@ -171,7 +171,7 @@
 - **[VS [Front-end]](https://t.me/VS_FRONTEND) - Telegram Channel**
 - **[Web Overflow](https://t.me/web_overflow) - Telegram Channel**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> Game Development
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> Game Development (17)
 
 - **[Ігровари](https://discord.gg/tMEJx47v8U) - Discord**
 - **[CG UA](https://t.me/cgi_ua) - Telegram Chat**
@@ -184,7 +184,7 @@
 - **[Intro to Gamedev - Chat](https://t.me/kpigamedev_chat) - Telegram Chat**
 - **[Substance painter Ukraine](https://t.me/SP_Ukraine) - Telegram Channel**
 - **[Unity chat | UA](https://t.me/unity_ua_chat) - Telegram Chat**
-- **[Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) - Telegram Chat**
+- **[Mobile GameDev Ukraine](https://t.me/MobileGameDevUkraine) - Telegram Chat**
 - **[Unreal Engine (UA)](https://t.me/ua_ue) - Telegram Chat**
 - **[Про Blender 3D українською](https://t.me/blender_ua) - Telegram Chat**
 - **[Unity.Ukraine](https://t.me/unity_ukraine) - Telegram Chat**
