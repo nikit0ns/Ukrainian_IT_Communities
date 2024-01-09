@@ -60,6 +60,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend
 
+- **[PHP Українською](https://t.me/+wsqReimOf9tmNDIy) - Telegram Channel**
 - **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
 - **[Nightly IT](https://t.me/itcrowdua) - Telegram Chat** 
 - **[CoffeeJUG](https://www.coffeejug.org/) - Website**
