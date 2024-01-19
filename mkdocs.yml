@@ -8,6 +8,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - header.autohide
   palette:
     - scheme: default
       primary: white
