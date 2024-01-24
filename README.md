@@ -28,7 +28,7 @@
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (9)](#-industry-news-9)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (11)](#-artificial-intelligence-11)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (3)](#-memes-3)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (2)](#-memes-2)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (15)](#-vacancies-work-employment-15)**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (22)
@@ -224,9 +224,8 @@
 - **[Computer Vision українською](https://t.me/computer_vision_uk) - Telegram Chat**
 - **[NLP української мови](https://t.me/nlp_uk) - Telegram Chat**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes (3)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes (2)
 
-- **[Ой meme](https://t.me/oumeme) - Telegram Channel**
 - **[Файний програміст](https://t.me/+CdT9UzL76dM0MTdi) - Telegram Channel**
 - **[JavaSkvirt // IT Memes](https://t.me/+kkDunEvwuh1jN2Vi) - Telegram Channel**
 
