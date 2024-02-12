@@ -29,7 +29,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (9)](#-industry-news-9)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (12)](#-artificial-intelligence-12)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (2)](#-memes-2)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (15)](#-vacancies-work-employment-15)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (16)](#-vacancies-work-employment-16)**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (22)
 
@@ -231,9 +231,10 @@
 - **[JavaSkvirt // IT Memes](https://t.me/+kkDunEvwuh1jN2Vi) - Telegram Channel**
 
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment (15)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> Vacancies, work, employment (16)
 
 - **[IT Бро - Junior IT вакансії, івенти, навчання](https://t.me/+zgoGZTZvie9mOTEy) - Telegram Channel**
+- **[Djinni](https://djinni.co/) - Website**
 - **[Фріланс / Робота Україна Фриланс](https://t.me/any_work_ua) - Telegram Chat**
 - **[Don't Panic Junior IT Jobs](https://t.me/Job_IT_Junior) - Telegram Channel**
 - **[IT recruiting chat Ukraine](https://t.me/recruitingUA) - Telegram Chat**
