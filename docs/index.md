@@ -194,7 +194,7 @@
 
 - **[DOU | QA](https://t.me/dou_qa) - Telegram Channel**
 - **[QA Україна](https://qaukraine.online/) - Website**
-- **[IT KPI - QA](https://t.me/itkpi_qa) - Telegram Channel**
+- **[IT KPI - QA](https://t.me/itkpi_qa) - Telegram Chat**
 
 ## <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> Blockchain (5)
 
