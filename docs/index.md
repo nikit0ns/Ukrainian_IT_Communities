@@ -190,7 +190,9 @@
 - **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
 - **[GameDev DOU](https://t.me/gamedev_dou) - Telegram Channel**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> QA/QC (0)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> QA/QC (1)
+
+- **[DOU | QA](https://t.me/dou_qa) - Telegram Channel**
 
 ## <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> Blockchain (5)
 
