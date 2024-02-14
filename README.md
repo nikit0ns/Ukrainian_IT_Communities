@@ -25,7 +25,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/compute.png" width="20" height="20" alt="hardware&embedded"/> **[Hardware & Embedded (10)](#-hardware--embedded-10)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> **[Frontend (23)](#-frontend-23)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/android.png" width="20" height="20" alt="android"/> **[Game Development (18)](#-game-development-18)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> **[QA/QC (1)](#-qaqc-1)** 
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> **[QA/QC (2)](#-qaqc-2)** 
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (9)](#-industry-news-9)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (12)](#-artificial-intelligence-12)**
@@ -192,9 +192,10 @@
 - **[Unity Tech Learn | UA](https://t.me/unity_tech_learn) - Telegram Chat**
 - **[GameDev DOU](https://t.me/gamedev_dou) - Telegram Channel**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> QA/QC (1)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> QA/QC (2)
 
 - **[DOU | QA](https://t.me/dou_qa) - Telegram Channel**
+- **[QA Україна](https://qaukraine.online/) - Website**
 
 ## <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> Blockchain (5)
 
