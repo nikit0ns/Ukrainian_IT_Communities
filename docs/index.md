@@ -17,7 +17,7 @@
 
 ## Contents
 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General (22)](#it-in-general-22)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General (23)](#it-in-general-23)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend (31)](#backend-31)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases (4)](#databases-4)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design (16)](#design-16)**
@@ -32,7 +32,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (2)](#memes-2)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (16)](#vacancies-work-employment-16)**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (22)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (23)
 
 - **[GitHub Repositories](https://t.me/+9jQf1HcbfNU4Nzky) - Telegram Channel**
 - **[ДеВи?](https://t.me/dev_prjctr) - Telegram Channel**
@@ -45,6 +45,7 @@
 - **[Rude Chat](https://t.me/rude_chat) - Telegram Chat**
 - **[Arch Linux Ukraine](https://t.me/archlinux_ukraine) - Telegram Chat**
 - **[Підслухано в ІТ](https://t.me/fivekusd) - Telegram Channel**
+- **[A1 lab](https://t.me/+uI05UUhBPSMxNTdi) - Telegram Chat**
 - **[DOU](https://dou.ua/) - Website**
 - **[DOU #tech](https://t.me/dou_tech) - Telegram Channel**  
 - **[Linuxmint](https://t.me/linuxmint_com) - Telegram Chat**
