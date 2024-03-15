@@ -17,7 +17,7 @@
 
 ## Contents
 
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General (24)](#-it-in-general-24)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> **[IT in General (25)](#-it-in-general-25)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> **[Backend (31)](#-backend-31)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/database.png" width="20" height="20" alt="database"/> **[Databases (4)](#-databases-4)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> **[Design (16)](#-design-16)**
@@ -32,7 +32,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (2)](#-memes-2)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (16)](#-vacancies-work-employment-16)**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (24)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (25)
 
 - **[GitHub Repositories](https://t.me/+9jQf1HcbfNU4Nzky) - Telegram Channel**
 - **[ДеВи?](https://t.me/dev_prjctr) - Telegram Channel**
@@ -58,8 +58,7 @@
 - **[Програмісти і печеньки](https://t.me/include_anime) - Telegram Chat**
 - **[IT Двіж](https://t.me/it_dvizh_ua) - Telegram Channel**
 - **[Алгоритми | Algoua](https://algoua.com/) - Website**
-
-
+- **[Сіпласпластик](https://t.me/cpplastic) - Telegram Channel**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend (31)
 
