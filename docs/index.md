@@ -60,6 +60,7 @@
 - **[Алгоритми | Algoua](https://algoua.com/) - Website**
 - **[Сіпласпластик](https://t.me/cpplastic) - Telegram Channel**
 
+
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> Backend (31)
 
 - **[aiogram Слава Україні!](https://t.me/aiogramua) - Telegram Chat**
