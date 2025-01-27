@@ -34,7 +34,7 @@
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/github.png" width="20" height="20" alt="github"/> IT in General (25)
 
-- **[GitHub Repositories](https://t.me/+9jQf1HcbfNU4Nzky) - Telegram Channel**
+- **[Джоботун: IT вакансії та кар‘єра](https://t.me/+tgqlbEoLw9xkZjI6) - Telegram Channel**
 - **[ДеВи?](https://t.me/dev_prjctr) - Telegram Channel**
 - **[OSFU - Open Source For Ukraine](https://t.me/OpenSourceForUkraine) - Telegram Chat**
 - **[dev.ua | IT України](https://t.me/devukraine) - Telegram Channel**
