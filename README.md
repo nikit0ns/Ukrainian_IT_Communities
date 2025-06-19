@@ -28,7 +28,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> **[QA/QC (4)](#-qaqc-4)** 
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (9)](#-industry-news-9)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (14)](#-artificial-intelligence-14)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (15)](#-artificial-intelligence-15)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (2)](#-memes-2)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (16)](#-vacancies-work-employment-16)**
 
