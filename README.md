@@ -220,7 +220,7 @@
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence (14)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence (15)
 
 - **[Matveev ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
 - **[AI Ukraine](https://t.me/+jILRR6bKfrJmMzhi) - Telegram Channel**
@@ -236,6 +236,7 @@
 - **[Синтез мовлення](https://t.me/speech_synthesis_uk) - Telegram Chat**
 - **[Computer Vision українською](https://t.me/computer_vision_uk) - Telegram Chat**
 - **[NLP української мови](https://t.me/nlp_uk) - Telegram Chat**
+- **[Edge/Mobile AI [UA]](https://t.me/+DngWUGRkIvg0ZjY6) - Telegram Chat**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes (2)
 
