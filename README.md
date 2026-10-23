@@ -28,7 +28,7 @@
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chef-inspec.png" width="20" height="20" alt="chef-inspec"/> **[QA/QC (4)](#-qaqc-4)** 
 - <img src="https://static.optimism.io/data/ETH/logo.svg" width="20" height="20" alt="blockchain"/> **[Blockchain (5)](#-blockchain-5)** 
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> **[Industry News (9)](#-industry-news-9)**
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (15)](#-artificial-intelligence-15)**
+- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> **[Artificial Intelligence (16)](#-artificial-intelligence-16)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> **[Memes (2)](#-memes-2)**
 - <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> **[Vacancies, work, employment (16)](#-vacancies-work-employment-16)**
 
@@ -220,23 +220,24 @@
 - **[Telegram Info Україна](https://t.me/tginfouk) - Telegram Channel**
 - **[Hosting Ukraine](https://t.me/ukrainecomua) - Telegram Channel**
 
-## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence (15)
+## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> Artificial Intelligence (16)
 
-- **[Matveev ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
+- **[AI Hub](https://t.me/aihubua) - Telegram Channel**
 - **[AI Ukraine](https://t.me/+jILRR6bKfrJmMzhi) - Telegram Channel**
 - **[Aidful | Медіа про штучний інтелект](https://t.me/aidfulmedia) - Telegram Channel**
-- **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
-- **[нейрокомедія: ІТ, ШІ та 🤖](https://t.me/+qgWqi5pHpm5hZWEy) - Telegram Channel**
 - **[ChatGPT, dude!](https://t.me/+NTeiTriTdroxN2Qy) - Telegram Channel**
-- **[That's AI, samurai](https://t.me/thats_ai_samurai) - Telegram Channel**
-- **[AI Hub](https://t.me/aihubua) - Telegram Channel**
-- **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
-- **[Розпізнавання мови](https://t.me/speech_recognition_uk) - Telegram Chat**
-- **[yKosmosi Нейромереж](https://t.me/+A0X-c5CT45Y3ZWMy) - Telegram Channel**
-- **[Синтез мовлення](https://t.me/speech_synthesis_uk) - Telegram Chat**
 - **[Computer Vision українською](https://t.me/computer_vision_uk) - Telegram Chat**
-- **[NLP української мови](https://t.me/nlp_uk) - Telegram Chat**
 - **[Edge/Mobile AI [UA]](https://t.me/+DngWUGRkIvg0ZjY6) - Telegram Chat**
+- **[Matveev ChatGPT Hub / Новини](https://t.me/+Sqaz4r15zYMzNjYy) - Telegram Channel**
+- **[Neural Waves](https://t.me/NeuralWaves) - Telegram Channel**
+- **[NLP української мови](https://t.me/nlp_uk) - Telegram Chat**
+- **[That's AI, samurai](https://t.me/thats_ai_samurai) - Telegram Channel**
+- **[We Are Midjourney](https://t.me/WeAreMidjourney) - Telegram Channel**
+- **[yKosmosi Нейромереж](https://t.me/+A0X-c5CT45Y3ZWMy) - Telegram Channel**
+- **[Вайб-Кодинг](https://t.me/vibecoding_ua) - Telegram Chat**
+- **[нейрокомедія: ІТ, ШІ та 🤖](https://t.me/+qgWqi5pHpm5hZWEy) - Telegram Channel**
+- **[Розпізнавання мови](https://t.me/speech_recognition_uk) - Telegram Chat**
+- **[Синтез мовлення](https://t.me/speech_synthesis_uk) - Telegram Chat**
 
 ## <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> Memes (2)
 
